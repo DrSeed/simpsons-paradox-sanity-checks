@@ -1,0 +1,4 @@
+group,n,corr,overall_corr,paradox_detected,confounder_eta_sq
+batch_0,50,-0.8786745569841832,0.903,True,0.943
+batch_1,50,-0.8820103482983078,0.903,True,0.943
+batch_2,50,-0.9305192605993985,0.903,True,0.943
